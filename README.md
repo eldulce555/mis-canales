@@ -68,12 +68,6 @@ http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/69156.m3u8
 #EXTINF:-1 , Latina 1
 http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/69145.m3u8
 
-#EXTINF:-1 , Latina 2
-http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/69144.m3u8
-
-#EXTINF:-1 , Latina 3
-http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/69143.m3u8
-
 #EXTINF:-1 , DW español noticias
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
