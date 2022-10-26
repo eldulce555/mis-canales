@@ -49,14 +49,6 @@ http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1 , Exitosa
 https://cu.onliv3.com/livevd1/user2.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 , Movistar deportes
-http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/21135.m3u8
-
-#EXTINF:-1 , ATV HD
-http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/35481.m3u8
-
-#EXTINF:-1 , Gol tv
-http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/21135.m3u8
 
 #EXTINF:-1 , Canal N
 http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/35480.m3u8
@@ -64,20 +56,8 @@ http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/35480.m3u8
 #EXTINF:-1 , Next TV
 http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/35475.m3u8
 
-#EXTINF:-1 , Bethel
-https://ott.streann.com/loadbalancer/services/public/channels/5e0689c82cdcb4fdbcd79151/playlist.m3u8
-
 #EXTINF:-1 , America TV
 http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/21128.m3u8
-
-#EXTINF:-1 , Frecuencia latina
-http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/35478.m3u8
-
-#EXTINF:-1 , Movistar deportes
-http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/35477.m3u8
-
-#EXTINF:-1 , Movistar plus
-http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/35476.m3u8
 
 #EXTINF:-1 , atv
 http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/69159.m3u8
@@ -97,15 +77,6 @@ http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/69143.m3u8
 #EXTINF:-1 , DW español noticias
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 , Golden
-https://rpn1.bozztv.com/36bay2/gusa-goldentv/mono.m3u8
-
 #EXTINF:-1 , Matices
 http://v4.tustreaming.cl/matices/index.m3u8
-
-#EXTINF:-1 , Willax
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/WillaxTV
-
-#EXTINF:-1 , PBO
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCgR0st4ZLABi-LQcWNu3wnQ/live
 
